@@ -1,0 +1,59 @@
+title: "Dart: Learn the Language, Libraries, and Tools"
+summary: "Get to know the Dart language, libraries, and tools while
+writing a web app that generates pirate name badges. Arrr!"
+
+description: "In this codelab, you build a pirate badge generator from a
+skeleton app. The sample app provides a brief look at some Dart language and
+library features. This codelab uses only basic HTML APIs; additional APIs—such
+as a Dart port of Polymer—are also available."
+
+prerequisites:
+  - Some programming experience (in any language)
+
+level: Beginner
+logo: dart-logo.png
+categories:
+  - web
+duration: 60 min
+keywords:
+  - Beginner
+  - Dart
+  - HTML5
+  - LocalStorage
+  - Programming languages
+
+steps:
+  -
+    title: "Getting ready"
+    blurb: "Learn about the app you'll write, get its code, and open the code in
+Dart Editor."
+  -
+    title: "Running the skeleton app"
+    blurb: "Open the source files, familiarize yourself with the Dart and HTML code,
+and run the app."
+  -
+    title: "Adding an input field"
+    blurb: "Add an input field to the app. As the user types into the field,
+the badge updates."
+  -
+    title: "Adding a button"
+    blurb: "Add a button that's enabled when the text field contains no text."
+  -
+    title: "Creating a class"
+    blurb: "Create a class to represent a pirate name."
+  -
+    title: "Saving to local storage"
+    blurb: "Give the app some persistence by saving the badge name to local storage
+each time it changes."
+  -
+    title: "Reading from a JSON file using HttpRequest"
+    blurb: "Change the PirateName class to get the list of names and appellations
+from a JSON file."
+  -
+    title: "Building the app and running as JavaScript"
+    blurb: "Use pub build to generate the assets for the app
+(including minified JavaScript) and to put them into a
+build directory that you can deploy."
+  -
+    title: "What next?"
+    blurb: "Now that you've written your app, what do you do?"
