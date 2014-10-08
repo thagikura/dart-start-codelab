@@ -107,7 +107,7 @@ by double-clicking each filename in Dart Editor.
 
 #### piratebadge.html
 
-import('src/begin/web/piratebadge.html', 'initial_html')
+IMPORT('src/begin/web/piratebadge.html', 'initial_html')
 
 Key information:
 
@@ -134,7 +134,7 @@ Key information:
 
 #### piratebadge.dart
 
-import('src/begin/web/piratebadge.dart', 'initial_dart')
+IMPORT('src/begin/web/piratebadge.dart', 'initial_dart')
 
 Key information:
 
