@@ -107,34 +107,7 @@ by double-clicking each filename in Dart Editor.
 
 #### piratebadge.html
 
-    <html>
-      <head>
-        <meta charset="utf-8">
-        <title>Pirate badge</title>
-        <meta name="viewport"
-              content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="piratebadge.css">
-      </head>
-      <body>
-        <h1>Pirate badge</h1>
-        
-        <div class="widgets">
-          TO DO: Put the UI widgets here.
-        </div>
-        <div class="badge">
-          <div class="greeting">
-            Arrr! Me name is
-          </div>
-          <div class="name">
-            <span id="badgeName"> </span>
-          </div>
-        </div>
-
-        <script type="application/dart" src="piratebadge.dart"></script>
-        <script src="packages/browser/dart.js"></script>
-      </body>
-    </html>
-
+import('begin/web/piratebadge.html', 'initial_html')
 
 Key information:
 
@@ -161,10 +134,7 @@ Key information:
 
 #### piratebadge.dart
 
-    void main() {
-      // Your app starts here.
-    }
-
+import('begin/web/piratebadge.dart', 'initial_dart')
 
 Key information:
 
