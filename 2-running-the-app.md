@@ -25,7 +25,7 @@ by double-clicking each filename in Dart Editor.
 
 #### piratebadge.html
 
-IMPORT('src/begin/web/piratebadge.html', 'initial_html')
+XMPORT('src/begin/web/piratebadge.html', 'initial_html')
 
 Key information:
 

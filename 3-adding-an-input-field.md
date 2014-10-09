@@ -14,7 +14,7 @@ or to recover if you get off track.
 within the `widgets` &lt;div&gt;.
 
     ...
-IMPORT('https://github.com/marcacohen/codelab-test/raw/master/widgets.html', 'initial_html')
+XMPORT('https://github.com/marcacohen/codelab-test/raw/master/widgets.html', 'initial_html')
     ...
 
 Key information:
