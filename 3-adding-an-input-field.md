@@ -14,11 +14,7 @@ or to recover if you get off track.
 within the `widgets` &lt;div&gt;.
 
     ...
-    <div class="widgets">
-      <div>
-        <input type="text" id="inputName" maxlength="15">
-      </div>
-    </div>
+IMPORT('https://github.com/marcacohen/codelab-test/raw/master/widgets.html', 'initial_html')
     ...
 
 Key information:
